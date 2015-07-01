@@ -1,0 +1,16 @@
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\bin\Debug\BasicVSOClient.exe.config
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\bin\Debug\BasicVSOClient.exe
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\bin\Debug\BasicVSOClient.pdb
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\obj\Debug\BasicVSOClient.exe
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\obj\Debug\BasicVSOClient.pdb
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\subod_000\documents\visual studio 2013\Projects\BasicVSOClient\BasicVSOClient\obj\Debug\BasicVSOClient.csprojResolveAssemblyReference.cache
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\bin\Debug\BasicVSOClient.exe.config
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\obj\Debug\BasicVSOClient.exe
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\obj\Debug\BasicVSOClient.pdb
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\bin\Debug\BasicVSOClient.exe
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\bin\Debug\BasicVSOClient.pdb
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\subod_000\Downloads\VSO REST APIs\Basic Authentication Client\BasicVSOClient\obj\Debug\BasicVSOClient.csprojResolveAssemblyReference.cache
